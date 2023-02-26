@@ -530,6 +530,14 @@ h1 {
     margin-bottom: 0px;
   }
 
+  .ABOUT-title>h1 {
+    padding: 0;
+    color: #0C7478;
+    font-size: 35px;
+    font-weight: semibold;
+    text-align: center;
+  }
+
   .About-img {
     padding-top: 120px;
   }
@@ -580,8 +588,6 @@ h1 {
     flex-direction: column;
   }
 
-
-
   .FEATURES {
     flex-direction: column;
   }
@@ -593,6 +599,10 @@ h1 {
 
   .FEATURES-list {
     width: 100%;
+  }
+
+  .FEATURES-list>ul>li {
+    line-height: 1;
   }
 
   .imgs1,
