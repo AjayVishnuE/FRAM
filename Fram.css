@@ -336,6 +336,7 @@ h1 {
   margin-bottom: 10px;
   width: 50%;
   margin-bottom: 12px;
+  list-style-type: none
 }
 
 .CONTACT-right>ul>li>a:hover {
